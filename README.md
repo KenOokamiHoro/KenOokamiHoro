@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 * Matters @KenOokamiHoro : https://matters.news/@kenookamihoro
 
-<!--
 ## IMs
 
 * Telegram: https://t.me/Ken_Ookami_Horo
@@ -38,8 +37,7 @@ Here are some ideas to get you started:
 
 * Twitter: [@Ken_Ookami_Horo](https://twitter.com/Ken_Ookami_Horo)
 
-* Mastodon: https://yoitsu.moe/@horo
--->
+* Mastodon: https://yoitsu.moe/@horo (Of course, I am the operator of https://yoitsu.moe too.)
 
 ## Other stuffs
 
