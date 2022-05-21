@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 ## Other stuffs
 
 * openPGP / GnuPG public key : Search `C41D545A576AC1FE4DBE90C9B6CF41D1879E8002` on one keyserver.
-* I am operating [likecoin valdator "Yoitsu"](https://likecoin.bigdipper.live/validator/44849C4D29250577A062A94361D6FF11A1EF297F) .
+* I am operating [likecoin valdator "Yoitsu"](https://likecoin.bigdipper.live/validators/likevaloper15f60vns6g04vururr8m4mrwkzyjc23uvm3vl6e) .
